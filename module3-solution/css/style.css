@@ -13,10 +13,20 @@
 }
 
 /** MAIN **/
-h2 {
+h3 {
 	text-align: center;
 	padding-top: 5px;
 }
+
+h3 a {
+	color:#333333;
+}
+
+h1 a:hover, h3 a:hover {
+	  text-decoration: none;
+}
+
+
 
 .row{
 	margin: 0 10px 0 10px;
